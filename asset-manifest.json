@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/StarytoStay-Sign-IN-UP-pages/static/css/main.391cd625.css",
-    "main.js": "/StarytoStay-Sign-IN-UP-pages/static/js/main.f9d4b05f.js",
+    "main.css": "/StarytoStay-Sign-IN-UP-pages/static/css/main.26c05df9.css",
+    "main.js": "/StarytoStay-Sign-IN-UP-pages/static/js/main.79fd6adc.js",
     "static/js/787.b02cee40.chunk.js": "/StarytoStay-Sign-IN-UP-pages/static/js/787.b02cee40.chunk.js",
     "static/media/google-signIN.jpg": "/StarytoStay-Sign-IN-UP-pages/static/media/google-signIN.492c7e8704cc2c59889b.jpg",
     "static/media/back-3.jpeg": "/StarytoStay-Sign-IN-UP-pages/static/media/back-3.dffb45f9f9f2915f90b4.jpeg",
     "static/media/back-up.webp": "/StarytoStay-Sign-IN-UP-pages/static/media/back-up.db19473de522fe1b803d.webp",
     "index.html": "/StarytoStay-Sign-IN-UP-pages/index.html",
-    "main.391cd625.css.map": "/StarytoStay-Sign-IN-UP-pages/static/css/main.391cd625.css.map",
-    "main.f9d4b05f.js.map": "/StarytoStay-Sign-IN-UP-pages/static/js/main.f9d4b05f.js.map",
+    "main.26c05df9.css.map": "/StarytoStay-Sign-IN-UP-pages/static/css/main.26c05df9.css.map",
+    "main.79fd6adc.js.map": "/StarytoStay-Sign-IN-UP-pages/static/js/main.79fd6adc.js.map",
     "787.b02cee40.chunk.js.map": "/StarytoStay-Sign-IN-UP-pages/static/js/787.b02cee40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.391cd625.css",
-    "static/js/main.f9d4b05f.js"
+    "static/css/main.26c05df9.css",
+    "static/js/main.79fd6adc.js"
   ]
 }
