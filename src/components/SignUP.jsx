@@ -33,7 +33,7 @@ export default function Form() {
         <section>
             <div className="register">
                 <div className="col-1">
-                    <h3>Sign Up</h3>
+                    <h3 className='main-heading'>Sign Up</h3>
                     <span>Register and enjoy the service</span>
 
                     <form id='form' className='flex flex-col' onSubmit={handleSubmit(onSubmit)}>

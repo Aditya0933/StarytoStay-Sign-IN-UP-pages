@@ -14,7 +14,7 @@ export default function Form() {
                     <img src={bgImg} alt=""/>
                 </div>
                 <div className="col-1">
-                    <h3>Sign In</h3>
+                    <h3 className='main-heading'>Sign In</h3>
                     <span>Welcome To StarytoStay !</span>
 
                     <form id='form' className='flex flex-col' onSubmit={handleSubmit(onSubmit)}>
