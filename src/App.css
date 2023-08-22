@@ -5,11 +5,6 @@
     margin: 0;
 }
 
-body {
-    background: #0f0c29;
-    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
-    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
-}
 
 .App {
     display: flex;
@@ -155,3 +150,86 @@ body {
     font-size: 14px;
     color: #636970;
 }
+
+
+/**********************************************/
+
+.rescue-btn:hover{
+    background-color: transparent!important;
+    color: #ff6d00;
+    font-size: 24px;
+}
+
+.rescue-content{
+    padding: 50px 0;
+}
+.rescue-content-heading{
+    font-size: 42px;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.rescue-content-para{
+    text-align: center;
+    color: #fff;
+    padding: 20px 20px;
+    line-height: 1.7;
+    letter-spacing: .5px;
+}
+
+/* Accordian Section */
+
+h1 {
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 2.5rem;
+  }
+  
+  .accordion {
+    width: 90%;
+    max-width: 1000px;
+    margin: 2rem auto;
+  }
+  .accordion-item {
+    background-color: #fff;
+    color: #111;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25);
+  }
+  .accordion-item-header {
+    padding: 0.5rem 3rem 0.5rem 1rem;
+    min-height: 3.5rem;
+    line-height: 1.25rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+  }
+  .accordion-item-header::after {
+    content: "\002B";
+    font-size: 2rem;
+    position: absolute;
+    right: 1rem;
+  }
+  .accordion-item-header.active::after {
+    content: "\2212";
+  }
+  .accordion-item-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+  .accordion-item-body-content {
+    padding: 1rem;
+    line-height: 1.5rem;
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
+  }
+  
+  @media (max-width: 767px) {
+    html {
+      font-size: 14px;
+    }
+  }
