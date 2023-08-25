@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/StarytoStay-Sign-IN-UP-pages/static/css/main.00cbf8e4.css",
-    "main.js": "/StarytoStay-Sign-IN-UP-pages/static/js/main.f01ec2ee.js",
+    "main.css": "/StarytoStay-Sign-IN-UP-pages/static/css/main.a91623ba.css",
+    "main.js": "/StarytoStay-Sign-IN-UP-pages/static/js/main.a2c23417.js",
     "static/js/787.b02cee40.chunk.js": "/StarytoStay-Sign-IN-UP-pages/static/js/787.b02cee40.chunk.js",
     "static/media/help-rescue-background-img.jpeg": "/StarytoStay-Sign-IN-UP-pages/static/media/help-rescue-background-img.6d71a4896ad8d0742cdd.jpeg",
     "static/media/google-signIN.jpg": "/StarytoStay-Sign-IN-UP-pages/static/media/google-signIN.492c7e8704cc2c59889b.jpg",
+    "static/media/8-img.jpeg": "/StarytoStay-Sign-IN-UP-pages/static/media/8-img.bf4f28312e9b1a13d634.jpeg",
+    "static/media/9-img.webp": "/StarytoStay-Sign-IN-UP-pages/static/media/9-img.b5cf4ab90695b33dbe4a.webp",
     "static/media/back-3.jpeg": "/StarytoStay-Sign-IN-UP-pages/static/media/back-3.dffb45f9f9f2915f90b4.jpeg",
     "static/media/rescue.webp": "/StarytoStay-Sign-IN-UP-pages/static/media/rescue.5e3c14143cefdd3f3a3f.webp",
+    "static/media/10-img.jpeg": "/StarytoStay-Sign-IN-UP-pages/static/media/10-img.5ed518ef29f96ee328ad.jpeg",
+    "static/media/1-img.avif": "/StarytoStay-Sign-IN-UP-pages/static/media/1-img.3835fbeb9d996be4d3ee.avif",
+    "static/media/4-img.jpeg": "/StarytoStay-Sign-IN-UP-pages/static/media/4-img.dd506705a858e1dbc730.jpeg",
     "static/media/back-up.webp": "/StarytoStay-Sign-IN-UP-pages/static/media/back-up.db19473de522fe1b803d.webp",
+    "static/media/5-img.webp": "/StarytoStay-Sign-IN-UP-pages/static/media/5-img.9b8c40c2265e000c5b65.webp",
     "index.html": "/StarytoStay-Sign-IN-UP-pages/index.html",
-    "main.00cbf8e4.css.map": "/StarytoStay-Sign-IN-UP-pages/static/css/main.00cbf8e4.css.map",
-    "main.f01ec2ee.js.map": "/StarytoStay-Sign-IN-UP-pages/static/js/main.f01ec2ee.js.map",
+    "main.a91623ba.css.map": "/StarytoStay-Sign-IN-UP-pages/static/css/main.a91623ba.css.map",
+    "main.a2c23417.js.map": "/StarytoStay-Sign-IN-UP-pages/static/js/main.a2c23417.js.map",
     "787.b02cee40.chunk.js.map": "/StarytoStay-Sign-IN-UP-pages/static/js/787.b02cee40.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00cbf8e4.css",
-    "static/js/main.f01ec2ee.js"
+    "static/css/main.a91623ba.css",
+    "static/js/main.a2c23417.js"
   ]
 }
