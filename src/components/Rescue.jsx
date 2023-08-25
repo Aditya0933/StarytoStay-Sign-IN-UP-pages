@@ -3,11 +3,14 @@ import { Box, Stack, Typography } from '@mui/material'
 import React, { useState } from 'react'
 import injuredDog from '../assets/rescue.webp'
 import helpDog from '../assets/help-rescue-background-img.jpeg'
-import BoraBora from '../assets/help-rescue-background-img.jpeg';
-import BoraBora2 from '../assets/help-rescue-background-img.jpeg';
-import Maldives from '../assets/help-rescue-background-img.jpeg';
-import Maldives2 from '../assets/help-rescue-background-img.jpeg';
-import Maldives3 from '../assets/help-rescue-background-img.jpeg';
+import BoraBora from '../assets/5-img.webp';
+import BoraBora2 from '../assets/4-img.jpeg';
+import Maldives6 from '../assets/9-img.webp';
+import Maldives5 from '../assets/5-img.webp';
+import Maldives4 from '../assets/4-img.jpeg';
+import Maldives3 from '../assets/8-img.jpeg';
+import Maldives2 from '../assets/10-img.jpeg';
+import Maldives1 from '../assets/1-img.avif';
 import KeyWest from '../assets/help-rescue-background-img.jpeg';
 import {
   TextField,
@@ -69,55 +72,56 @@ function Rescue() {
         <h1 className='rescue-content-heading'>Their lives matter. Rescue animals</h1>
         <p className='rescue-content-para'>Animals suffer everyday. Whether it is dehydration, starvation, or lack of attention, these are all leading factors into animal abuse. Animal abuse occurs all around the world. Typically it is something people will turn a blind eye towards because it is not a human life being threatened; it is simply ‘just an animal life.’ Animals are crucial for our universe, not to mention they are capable of being lifelong companions.</p>
           <div className='max-w-[1240px] mx-auto px-4 py-5 grid sm:grid-cols-2 lg:grid-cols-3 gap-4 bg-black'>
-            <div img={Maldives3} text='Romo' ><p>1</p>
-            <img src={Maldives3} alt="" srcset="" /></div>
-            <div img={BoraBora} text='Buddy'><p>2</p>
-            <img src={Maldives3} alt="" srcset="" /></div>
-            <div img={BoraBora2} text='Max'><p>3</p>
-            <img src={Maldives3} alt="" srcset="" /></div>
-            <div img={Maldives} text='Charlie'><p>4</p>
-            <img src={Maldives3} alt="" srcset="" /></div>
-            <div img={Maldives2} text='Diasy'><p>5</p>
-            <img src={Maldives3} alt="" srcset="" /></div>
-            <div img={KeyWest} text='Druster'><p>6</p>
-            <img src={Maldives3} alt="" srcset="" /></div>  
+            <img src={Maldives1} alt="" srcset="" />
+            <img src={Maldives2} alt="" srcset="" />
+            <img src={Maldives3} alt="" srcset="" />
+            <img src={Maldives4} alt="" srcset="" />
+            <img src={Maldives5} alt="" srcset="" />
+            <img src={Maldives6} alt="" srcset="" />
           </div>
         </div>
         <div>
         <div>
           <div className="flex items-center justify-center ">
-            <div className="bg-white">
+            <div className="bg-#bfbfbf">
                 <div className="container flex flex-col justify-center px-4 py-8 mx-auto md:p-8">
                     <h2 className="text-2xl font-semibold">
-                        Frequently Asked Questions
+                      - FAQ -
+
                     </h2>
                     <p className="mt-4 mb-8 text-gray-600">
-                        React Interview Questions And Answers
+                    Saving one animal won’t change the world, but it will change the world for that one animal.
+
                     </p>
                     <div className="space-y-4">
                         <details className="w-full rounded-lg ring-1 ring-purple-600">
                             <summary className="px-4 py-6">
-                                What is React? 
+                            What types of animals do you rescue?
+
                             </summary>
                             <p className="px-4 py-6 pt-0 ml-4 -mt-4 text-gray-600">
-                                React is a front-end JavaScript library
-                                developed by Facebook in 2011. 
+                            We rescue a variety of animals, including dogs, cats, rabbits, and sometimes even small animals like guinea pigs or birds.
+
                             </p>
                         </details>
                         <details className="w-full rounded-lg ring-1 ring-purple-600">
                             <summary className="px-4 py-6">
-                            What is Props and how to use it give some example?
+                            Are the animals up-to-date on vaccinations and medical care?
+
                             </summary>
                             <p className="px-4 py-6 pt-0 ml-4 -mt-4 text-gray-600">
-                            Props is the shorthand for Properties in React.
+                            Yes, all our animals receive necessary vaccinations and medical care before they are available for adoption.
+
                             </p>
                         </details>
                         <details className="w-full rounded-lg ring-1 ring-purple-600">
                             <summary className="px-4 py-6">
-                            How to install tailwind css in react js ?
+                            Can I surrender my pet to your rescue organization?
+
                             </summary>
                             <p className="px-4 py-6 pt-0 ml-4 -mt-4 text-gray-600">
-                            What are synthetic events in React?
+                            We do accept surrendered pets if space is available. Please contact us to discuss the situation and check for availability.
+
                             </p>
                         </details>
                     </div>
